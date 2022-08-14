@@ -14,6 +14,7 @@ This project is a part of Full stack Javascript Bootcamp. In this project i have
 - Selectors to target Elements
 - Postioning Elements
 - Z-indexing Elements
-- Using image in background
+- Using image in cards
+- Designing cards
 
 # This Project took me around 6 hours to complete.
